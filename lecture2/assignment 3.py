@@ -122,7 +122,7 @@ print()
 print('(h.2)the points at which the minimum bending moment occur are{0} and{1}'.format(root_1,root_2))
 
 
-
+www.github.com/mbrowah
 
 
 
